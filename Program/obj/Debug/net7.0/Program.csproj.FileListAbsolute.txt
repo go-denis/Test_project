@@ -1,0 +1,15 @@
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.csproj.AssemblyReference.cache
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.GeneratedMSBuildEditorConfig.editorconfig
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.AssemblyInfoInputs.cache
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.AssemblyInfo.cs
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.csproj.CoreCompileInputs.cache
+D:\MyProgects\Тестовый проект\Test_project\Program\bin\Debug\net7.0\Program.exe
+D:\MyProgects\Тестовый проект\Test_project\Program\bin\Debug\net7.0\Program.deps.json
+D:\MyProgects\Тестовый проект\Test_project\Program\bin\Debug\net7.0\Program.runtimeconfig.json
+D:\MyProgects\Тестовый проект\Test_project\Program\bin\Debug\net7.0\Program.dll
+D:\MyProgects\Тестовый проект\Test_project\Program\bin\Debug\net7.0\Program.pdb
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.dll
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\refint\Program.dll
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.pdb
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\Program.genruntimeconfig.cache
+D:\MyProgects\Тестовый проект\Test_project\Program\obj\Debug\net7.0\ref\Program.dll

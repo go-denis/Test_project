@@ -1,7 +1,7 @@
 ﻿using System;
-
-string[] array_one = new string[5] {"123", "23", "hello", "world", "res"};
-string[] array_second = new string[array_one.Length];
+//Данные на входе по условию
+string[] array_one = new string[4] {"hello", "2", "worla", ":-)"}; //От количества элементов массива надо поменять значение кол-во элементов
+string[] array_second = new string[array_one.Length]; //Второй массив, который программа формирует на выходе
 
 void ArraySecond(string[] array_one, string[] array_second)
 {
@@ -15,3 +15,14 @@ void ArraySecond(string[] array_one, string[] array_second)
         }
     }
 }
+
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++) //Цикл по схеме
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+ArraySecond(array_one, array_second); //Второй массив
+PrintArray(array_second); //Вывод массива
